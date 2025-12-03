@@ -1,4 +1,4 @@
-This is a small Flask TODO application. It supports user registration and login, and stores tasks per user in a SQLite database.
+This is a Flask WorkBuddy application. It supports user registration and login, and stores tasks per user in a SQLite database.
 
 Quick start
 
